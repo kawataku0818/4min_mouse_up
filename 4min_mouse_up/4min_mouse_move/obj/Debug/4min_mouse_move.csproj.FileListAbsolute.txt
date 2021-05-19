@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\4min_mouse_move\4min_mouse_move\bin\Debug\4min_mouse_move.exe.config
+C:\Users\user\source\repos\4min_mouse_move\4min_mouse_move\bin\Debug\4min_mouse_move.exe
+C:\Users\user\source\repos\4min_mouse_move\4min_mouse_move\bin\Debug\4min_mouse_move.pdb
+C:\Users\user\source\repos\4min_mouse_move\4min_mouse_move\obj\Debug\4min_mouse_move.csprojAssemblyReference.cache
+C:\Users\user\source\repos\4min_mouse_move\4min_mouse_move\obj\Debug\_4min_mouse_move.Form1.resources
+C:\Users\user\source\repos\4min_mouse_move\4min_mouse_move\obj\Debug\_4min_mouse_move.Properties.Resources.resources
+C:\Users\user\source\repos\4min_mouse_move\4min_mouse_move\obj\Debug\4min_mouse_move.csproj.GenerateResource.cache
+C:\Users\user\source\repos\4min_mouse_move\4min_mouse_move\obj\Debug\4min_mouse_move.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\4min_mouse_move\4min_mouse_move\obj\Debug\4min_mouse_move.exe
+C:\Users\user\source\repos\4min_mouse_move\4min_mouse_move\obj\Debug\4min_mouse_move.pdb
